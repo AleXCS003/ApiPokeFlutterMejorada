@@ -2,6 +2,7 @@
 
 Este proyecto, desarrollado en **Flutter**, utiliza la **Pokémon API** para mostrar una lista interactiva de Pokémon y sus detalles. Además, cuenta con una funcionalidad adicional para verificar un numero de telefono  y sus caracterisitcas  utilizando la **API de Numverify**.
 
+Autor :Alex Cardenas
 ---
 
 ## ✨ Funcionalidades
@@ -10,7 +11,7 @@ Este proyecto, desarrollado en **Flutter**, utiliza la **Pokémon API** para mos
 - **Lista de Pokémon:** Presenta una lista obtenida desde la Pokémon API, con imágenes y nombres de los Pokémon.
 - **Búsqueda de Pokémon:** Incorpora un buscador que permite localizar Pokémon por su nombre.
 - **Detalles de Pokémon:** Al seleccionar un Pokémon, se despliega una ventana emergente con información como su peso, altura y habilidades.
-- **Consulta de numero telfonico:** Permite ingresar un numero telefonico y verficar si el numero es valido o existe.
+- **Consulta de numero telefonico:** Permite ingresar un numero telefonico y verficar si el numero es valido o existe.
 
 ---
 -
@@ -86,7 +87,7 @@ Este archivo detalla los pasos seguidos para publicar la aplicación **Pokémon 
 
 
 
-### 3. Capturas de la creacion de la cuenta de amazon y subida
+### 3. Capturas de la publicación de la aplicación 
 1. subir el APK 
 ![image](https://github.com/user-attachments/assets/36bf9e05-b507-4090-bc4a-63d3f9bb1202)
 
@@ -102,4 +103,4 @@ Este archivo detalla los pasos seguidos para publicar la aplicación **Pokémon 
 5.Estado de la aplicacion 
 ![image](https://github.com/user-attachments/assets/7f4455fa-2860-45a5-9923-4e3585935a27)
 
-
+link de la publicacion :https://www.amazon.com/gp/product/B0DS6KMTF9
